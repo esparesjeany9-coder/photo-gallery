@@ -1,5 +1,7 @@
 # Ionic Photo Gallery
 
+[![Build Ionic Android APK](https://github.com/esparesjeany9-coder/photo-gallery/actions/workflows/build-apk.yml/badge.svg)](https://github.com/esparesjeany9-coder/photo-gallery/actions)
+
 A mobile photo gallery application built with Ionic, Vue 3, and Capacitor.
 
 ## Features
